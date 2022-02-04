@@ -4,4 +4,4 @@ tengo 33 años  y naci en Colombia,
 
 vive en armenia
 
-Hoy soy desarrollador
+Hoy hablaremos de su vida
